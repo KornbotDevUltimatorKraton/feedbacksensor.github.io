@@ -1,0 +1,6 @@
+{ "feedbacksensor":{   
+     "Magnetic-Encoder":{"AM256":{"Specifications":["8 bit absolute encoder", "High rotational speed up to 60,000 rpm", "5 V power supply", "Low power consumption 13 mA typical.", "Extended operating temperature range (-40 °C to 125 °C)", "SMD package SSOP28"],"Communicationspins":{"":[]}},"":[],"":[]},
+
+     "Analog-Encoder":{"":[],"":[],"":[]} 
+}
+}
